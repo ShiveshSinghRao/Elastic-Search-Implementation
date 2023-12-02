@@ -1,0 +1,11 @@
+.MessageSearch {
+  margin-bottom: 20px;
+}
+
+.MessageSearch input[type="text"] {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
