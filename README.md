@@ -5,7 +5,17 @@
 
 
 This project is a Real-Time Message Management System developed using Elasticsearch for efficient message storage, retrieval, and search functionalities.
+### Dependencies:
+frontend:
+```
+npm install react-toastify react-table
+````
+###backend
 
+```
+yarn add @elastic/elasticsearch body-parser dotenv express express-async-errors express-openid-connect nodemon
+```
+ 
 ## Technologies Used
 
 ### Backend
@@ -61,7 +71,7 @@ Feel free to contribute to this project by creating issues, suggesting enhanceme
 
 ## Credits
 
-This Real-Time Message Management System is developed by [Your Name] as part of [Your Project or Course].
+This Real-Time Message Management System was developed by Shivesh.
 
-For more information or queries, please reach out to [Your Contact Information].
+For more information or queries, please reach out to shiveshsinghrao@gmail.com
 
